@@ -1,1 +1,1 @@
-# 7-eleven-optimization
+# 7-eleven optimization model
