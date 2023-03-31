@@ -3,3 +3,8 @@ We have known 7-11 is a most famous convenience store which have more than 13,00
 
 # Project Overview Diagram 
 Input:
+The input of this project separates to 3 inputs as the following: 
+1. 7-11 Product data which extracted nutrients such as calories, fat, carbohydrate and protein and categorize it from web scraping.  
+2. 7-11 Product Price from web scraping. 
+3. User preferences such as expectation cost, expectation for each nutrient. 
+
