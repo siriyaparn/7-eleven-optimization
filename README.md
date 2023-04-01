@@ -8,3 +8,5 @@ The input of this project separates to 3 inputs as the following:
 2. 7-11 Product Price from web scraping. 
 3. User preferences such as expectation cost, expectation for each nutrient. 
 
+Product Category: 
+We categorize 7-11 food products as the following categories. We are interested in only the food products category. Other categories are not included. 
