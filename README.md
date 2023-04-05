@@ -10,3 +10,14 @@ The input of this project separates to 3 inputs as the following:
 
 Product Category: 
 We categorize 7-11 food products as the following categories. We are interested in only the food products category. Other categories are not included. 
+
+Food product categories
+1.	Frozen Food
+2.	Appetizer
+3.	Beverage
+4.	Milk
+5.	Bakery
+6.	Snack
+7.	Ice Cream
+8.	Instant Food
+
