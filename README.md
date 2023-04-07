@@ -21,3 +21,5 @@ Food product categories
 7.	Ice Cream
 8.	Instant Food
 
+Process
+Product data Extraction
