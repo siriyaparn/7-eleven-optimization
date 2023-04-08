@@ -23,3 +23,5 @@ Food product categories
 
 Process
 Product data Extraction
+
+In this project, we have extracted data from fit-d.com and 7eleven.co.th due to their availability for data scraping. These websites have information about the list of 7-eleven products, cost, and the nutrition of each product and we have extracted and transformed data into SQL database.
