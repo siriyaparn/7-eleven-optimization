@@ -25,3 +25,4 @@ Process
 Product data Extraction
 
 In this project, we have extracted data from fit-d.com and 7eleven.co.th due to their availability for data scraping. These websites have information about the list of 7-eleven products, cost, and the nutrition of each product and we have extracted and transformed data into SQL database.
+After we transform data in database, we use Python to pull data from database, SQLite, receive user preferences about nutrients required and the maximum cost per meal to be constraints of the optimization model (.mod file) and create a data file (.dat file) which is a template for using AMPL simplex to solve optimization model.  v
